@@ -5,7 +5,7 @@
 
 ## Data Viz Summary
 
-
+![data visualization pic](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im84c2JwYWNoLzcxNTg0MzYwMjAwOTUyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19)
 
 ## Data Viz Biography
 
