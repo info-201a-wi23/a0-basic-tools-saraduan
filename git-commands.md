@@ -10,7 +10,7 @@ pwd
 ls
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
-cd C:/Users/sarajduan/Desktop/INFO201
+cd /Users/sarajduan/Desktop/INFO201
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
 git clone https://github.com/info-201a-wi23/a0-basic-tools-saraduan.git
